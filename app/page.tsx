@@ -3,7 +3,7 @@
 import { useState } from 'react';
 
 const messages = [
-  'Tap the button. Trust me.',
+  'Tap the button. Nanba.',
   'Again. That was only one.',
   'Keep going — something is waking up.',
   'Two more. No backing out now.',
